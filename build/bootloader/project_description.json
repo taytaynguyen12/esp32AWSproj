@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/Users/taylornguyen/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/Users/taylornguyen/esp/aws-esp-iot/awsiotLTE/build/bootloader",
+    "config_file":        "/Users/taylornguyen/esp/aws-esp-iot/awsiotLTE/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4-dev-2128-gf45b60b28",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/Users/taylornguyen/esp/esp-idf/components/efuse/Kconfig;/Users/taylornguyen/esp/esp-idf/components/esp32/Kconfig;/Users/taylornguyen/esp/esp-idf/components/esp_common/Kconfig;/Users/taylornguyen/esp/esp-idf/components/esp_hw_support/Kconfig;/Users/taylornguyen/esp/esp-idf/components/esp_system/Kconfig;/Users/taylornguyen/esp/esp-idf/components/freertos/Kconfig;/Users/taylornguyen/esp/esp-idf/components/hal/Kconfig;/Users/taylornguyen/esp/esp-idf/components/log/Kconfig;/Users/taylornguyen/esp/esp-idf/components/newlib/Kconfig;/Users/taylornguyen/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/Users/taylornguyen/esp/esp-idf/components/bootloader/Kconfig.projbuild;/Users/taylornguyen/esp/esp-idf/components/esp_rom/Kconfig.projbuild;/Users/taylornguyen/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/Users/taylornguyen/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/Users/taylornguyen/esp/esp-idf/components/bootloader", "/Users/taylornguyen/esp/esp-idf/components/bootloader_support", "/Users/taylornguyen/esp/esp-idf/components/efuse", "/Users/taylornguyen/esp/esp-idf/components/esp32", "/Users/taylornguyen/esp/esp-idf/components/esp_common", "/Users/taylornguyen/esp/esp-idf/components/esp_hw_support", "/Users/taylornguyen/esp/esp-idf/components/esp_rom", "/Users/taylornguyen/esp/esp-idf/components/esp_system", "/Users/taylornguyen/esp/esp-idf/components/esptool_py", "/Users/taylornguyen/esp/esp-idf/components/freertos", "/Users/taylornguyen/esp/esp-idf/components/hal", "/Users/taylornguyen/esp/esp-idf/components/log", "/Users/taylornguyen/esp/esp-idf/components/bootloader/subproject/main", "/Users/taylornguyen/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/Users/taylornguyen/esp/esp-idf/components/newlib", "/Users/taylornguyen/esp/esp-idf/components/partition_table", "/Users/taylornguyen/esp/esp-idf/components/soc", "/Users/taylornguyen/esp/esp-idf/components/spi_flash", "/Users/taylornguyen/esp/esp-idf/components/xtensa", "" ]
+}

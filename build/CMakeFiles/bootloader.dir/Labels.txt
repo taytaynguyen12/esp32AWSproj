@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/taylornguyen/esp/aws-esp-iot/awsiotLTE/build/CMakeFiles/bootloader
+/Users/taylornguyen/esp/aws-esp-iot/awsiotLTE/build/CMakeFiles/bootloader.rule
+/Users/taylornguyen/esp/aws-esp-iot/awsiotLTE/build/CMakeFiles/bootloader-complete.rule
+/Users/taylornguyen/esp/aws-esp-iot/awsiotLTE/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/taylornguyen/esp/aws-esp-iot/awsiotLTE/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/taylornguyen/esp/aws-esp-iot/awsiotLTE/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/taylornguyen/esp/aws-esp-iot/awsiotLTE/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/taylornguyen/esp/aws-esp-iot/awsiotLTE/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/taylornguyen/esp/aws-esp-iot/awsiotLTE/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/taylornguyen/esp/aws-esp-iot/awsiotLTE/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,6 @@
+TODO LIST
+Turn on the sim // done
+get GPS functionality
+set in intial config for sim to use LTE and not GSM
+write I2C code for icm20948 // NO LONGER NEEDED
+write I2C code for voltage trigger 
