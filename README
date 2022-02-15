@@ -1,3 +1,17 @@
+The main folder will hold the main code that executes the timing and initializations of the esp32 board
+
+In each components folder contains the code needed to initalize each functions that are needed to run and to create the methods that can be called in the main code
+
+
+
+
+
+
+
+
+
+
+
 TODO LIST
 Turn on the sim // done
 get GPS functionality
